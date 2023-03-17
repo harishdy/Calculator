@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b07c1e8b382326ba390be68ea4cef6e284411302b8642575543583e39c6125d9"
+build_start_time: [1678970176, 363728046]
+build_end_time: [1678970176, 384946823]
+inputs:
+  "/Users/harish/Documents/Flutter_Tutorial/calculator/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1678970166, 197112083]
+  "/Users/harish/Documents/Flutter_Tutorial/calculator/macos/Runner/AppDelegate.swift": !private [1675961070, 0]
+  "/Users/harish/Documents/Flutter_Tutorial/calculator/macos/Runner/MainFlutterWindow.swift": !private [1675961070, 0]
